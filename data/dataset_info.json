@@ -561,5 +561,122 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "midu_sft_alpaca_gpt4_en": {
+    "file_name": "/mnt/e/datasets/michao_dataset_v2_0613/midu_sft/alpaca_gpt4_en.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "midu_sft_alpaca_gpt4_zh": {
+    "file_name": "/mnt/e/datasets/michao_dataset_v2_0613/midu_sft/alpaca_gpt4_zh.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "midu_sft_multi_choice": {
+    "file_name": "/mnt/e/datasets/michao_dataset_v2_0613/midu_sft/multiple_choice.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "midu_sft_self_introduction": {
+    "file_name": "/mnt/e/datasets/michao_dataset_v2_0613/midu_sft/self_introduction_1w_v2.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "midu_sft_sharegpt": {
+    "file_name": "/mnt/e/datasets/michao_dataset_v2_0613/midu_sft/sharegpt_20230420.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "midu_zzt_cishu_rag": {
+    "file_name": "/mnt/e/datasets/michao_dataset_v2_0613/midu_zzt/cishu_rag_0613.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "midu_zzt_cishu_react": {
+    "file_name": "/mnt/e/datasets/michao_dataset_v2_0613/midu_zzt/cishu_react_0613.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "midu_zzt_rag": {
+    "file_name": "/mnt/e/datasets/michao_dataset_v2_0613/midu_zzt/zhizhitong_rag_0613.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "midu_zzt_conversation_query_generate": {
+    "file_name": "/mnt/e/datasets/michao_dataset_v2_0613/midu_zzt/zzt_conversation_query_generate_0326.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "midu_zzt_conversation": {
+    "file_name": "/mnt/e/datasets/michao_dataset_v2_0613/midu_zzt/zzt_conversation_v2_0326.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "midu_zzt_relevance_judgment": {
+    "file_name": "/mnt/e/datasets/michao_dataset_v2_0613/midu_zzt/zzt_relevance_judgment_0326.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "midu_wgt_stage1": {
+    "file_name": "/mnt/e/datasets/michao_dataset_v2_0613/midu_wgt/gongwen_bankuai_brainstorm_5k.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "midu_wgt_stage2": {
+    "file_name": "/mnt/e/datasets/michao_dataset_v2_0613/midu_wgt/gongwen_bankuai_brainstorm_stage2_5k_control.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    }
   }
 }

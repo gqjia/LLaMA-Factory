@@ -163,3 +163,7 @@ cython_debug/
 user.config
 saves/
 cache/
+
+wandb/
+logs/
+data/dataset_info.json
