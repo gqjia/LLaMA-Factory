@@ -166,4 +166,4 @@ cache/
 
 wandb/
 logs/
-data/dataset_info.json
+develop/
